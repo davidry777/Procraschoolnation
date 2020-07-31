@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Class\ meant\ to\ be\ used\ for\ creating\ enemys\ along\ your\ journey\ during\ the\ game.\n\ Each\ enemy\ will\ have\ health,\ intelligence,\ regeneration,\ mental\ health,\ aSpeed,\n\ and\ procastination\ stats\n\ \n\ @author\ David\ Ryan\n\ @version\ 1.0\n
+comment1.params=name
+comment1.target=Enemy(java.lang.String)
+comment1.text=\n\ Default\ constructor\ for\ objects\ of\ class\ Enemy,\ with\ only\ passing\ the\ name\n\ \n\ @param\ name\ \ name\ of\ the\ enemy\n
+comment2.params=health\ attack\ name
+comment2.target=Enemy(double,\ double,\ java.lang.String)
+comment2.text=\n\ Constructor\ for\ creating\ an\ enemy\ with\ only\ health\ and\ attack\ in\ mind\n\ \n\ @param\ health\ \ \ \ health\ of\ the\ enemy\n\ @param\ attack\ \ \ \ how\ much\ attack\ speed\ stat\n\ @param\ name\ \ name\ of\ the\ enemy\n
+comment3.params=hp\ intelligent\ mhp\ regen\ aSpeed\ pro\ nam
+comment3.target=Enemy(double,\ int,\ double,\ double,\ double,\ double,\ java.lang.String)
+comment3.text=\n\ Constructor\ for\ Enemy\n\ \n\ @param\ hp\ \ \ \ health\ stat\n\ @param\ intelligent\ intelligence\ stat\n\ @param\ mhp\ \ \ mental\ health\ stat\n\ @param\ regen\ regeneration\ stat\n\ @param\ aSpeed\ \ \ \ attack\ speed\ stat\n\ @param\ pro\ \ \ procastination\ stat\n
+comment4.params=friend\ dam
+comment4.target=double\ attack(Friendly,\ int)
+comment4.text=\n\ Helper\ method\ used\ for\ attacking\ the\ friend\ with\ the\ amount\ of\ damage\ that\n\ you\ would\ possibly\ perform.\ The\ method\ would\ then\ return\ the\ damage\ afflicted\ by\ \n\ your\ friend.\ It\ would\ help\ changed\ the\ health\ through\ the\ changeHealth\ method\ in\ \n\ the\ Chance\ class\n\ \n\ @param\ firend\ the\ friendly\ that\ you\ want\ to\ attack\n\ @param\ damage\ \ \ \ dmamage\ that\ you\ want\ to\ inflict\ on\ your\ enemy\n\ @return\ damAfflict\ \ \ damage\ that\ has\ been\ afflicted\ on\ the\ enemy\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ the\ name\ of\ the\ enemy,\ and\ quickly\ identifies\ himeself\ as\ an\ enemy\n\ @return\ string\ of\ the\ name\ of\ the\ friend\n
+numComments=6

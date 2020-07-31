@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Friendly
+comment0.text=\n\ Class\ meant\ to\ be\ used\ for\ creating\ friends\ along\ your\ journey\ during\ the\ game.\n\ Each\ friend\ will\ have\ health,\ intelligence,\ regeneration,\ mental\ health,\ typespeed,\n\ and\ procastination\ stats\n\n\ @author\ Anthony\ Rubio\n\ @version\ 1\n
+comment1.params=
+comment1.target=Friendly()
+comment1.text=\n\ Default\ constructor\ for\ Friendly\ Class\n
+comment2.params=health\ attack\ name
+comment2.target=Friendly(double,\ double,\ java.lang.String)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ Friendly,\ only\ when\ passing\ name\ parameter\n\ \n\ @param\ name\ \ name\ of\ the\ players\ friend\n
+comment3.params=hp\ intelligent\ mhp\ regen\ attack\ pro\ nam
+comment3.target=Friendly(double,\ int,\ double,\ double,\ double,\ double,\ java.lang.String)
+comment3.text=\n\ Constructor\ for\ Friendly\ for\ perhaps\ customization\ for\ you\ friends\n\ \n\ @param\ hp\ \ \ \ health\ stat\n\ @param\ intelligent\ intelligence\ stat\n\ @param\ mhp\ \ \ mental\ health\ stat\n\ @param\ regen\ regeneration\ stat\n\ @param\ tSpeed\ \ \ \ type\ speed\ stat\n\ @param\ pro\ \ \ procastination\ stat\n\ @param\ name\ \ name\ of\ the\ players\ friend\n\ \n
+comment4.params=fiend\ dam
+comment4.target=double\ attack(Enemy,\ int)
+comment4.text=\n\ Helper\ method\ used\ for\ attacking\ the\ enemy\ with\ the\ amount\ of\ damage\ that\n\ you\ would\ possibly\ perform.\ The\ method\ would\ then\ return\ the\ damage\ afflicted\ by\ \n\ your\ friend.\ It\ would\ help\ changed\ the\ health\ through\ the\ changeHealth\ method\ in\ \n\ the\ Chance\ class\n\ \n\ @param\ fiend\ enemy\ that\ you\ want\ to\ attack\n\ @param\ damage\ \ \ \ dmamage\ that\ you\ want\ to\ inflict\ on\ your\ enemy\n\ @return\ damAfflict\ \ \ damage\ that\ has\ been\ afflicted\ on\ the\ enemy\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ the\ name\ of\ the\ friend,\ and\ quickly\ identifies\ himeself\ as\ a\ friend\n\ @return\ string\ of\ the\ name\ of\ the\ friend\n
+numComments=6

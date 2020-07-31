@@ -1,0 +1,1 @@
+This APCS group project is D&D game intended on defeating different enemies, which consists of hws, projects, and tests that we did from APCS. We built this program using Java, with a designing GUI from JavaFX.

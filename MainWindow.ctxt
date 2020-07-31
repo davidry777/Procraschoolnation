@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MainWindow
+comment0.text=\n\ Driver\ for\ user\ interaction\ with\ game\ windows\n\ \n\ @Jason\ G\n\ @5/28/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Launches\ the\ program\n
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\n\ Start\ of\ program\n\ @param\ primaryStage\ \ Stage\ class\ being\ used\ in\ program\n
+comment3.params=e
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment3.text=\n\ Increases\ the\ balance\ of\ money\ \n\ @param\ ActionEvent\ e\n
+comment4.params=e
+comment4.target=void\ handle(javafx.event.ActionEvent)
+comment4.text=\n\ Used\ for\ opening\ the\ shop\ window\n\ @param\ ActionEvent\ e\n
+comment5.params=
+comment5.target=void\ closeGame()
+comment5.text=\n\ Exits\ the\ game\ and\ closes\ the\ program\n
+numComments=6

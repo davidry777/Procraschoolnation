@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Combat
+comment0.text=\n\ Combat\ class\ deals\ with\ setting\ up\ the\ layout\ of\ combat\ in\ the\ game,\ while\n\ displaying\ certain\ values\ such\ as\ addMoney\ and\ combat\ options.\ Also\ features\ a\ delay\ in\n\ timer.\ Returns\ money\ that\ is\ gonna\ be\ added\ after\ combat.\n\n\ @author\ Jason\ Giese\ and\ Thomas\ Joel\n\ @version\ 1.0\n
+comment1.params=money\ list\ hp\ atk
+comment1.target=double\ start(double,\ Inventory,\ int,\ int)
+comment1.text=\n\ Static\ helper\ method\ that\ deals\ with\ handling\ user\ to\ enemy\ combat,\ while\ also\n\ taking\ care\ of\ inventory\ and\ health\n\ \n\ @param\ money\ how\ much\ money\ you\ have\n\ @param\ list\ \ List\ of\ items\ in\ inventory\n\ @param\ hp\ \ \ \ health\ points\n\ @param\ atk\ \ \ how\ much\ attack\ damage\ you\ do\n\ @return\ addMoney\ money\ that\ would\ be\ added\ to\ your\ balance\n
+numComments=2

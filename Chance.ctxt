@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Chance
+comment0.text=\n\ Class\ that\ allows\ the\ Friend\ or\ Enemy\ to\ change\ it\ procrastination\ and\ \n\ health\ stats\ through\ possible\ luck\n\n\ @author\ Anthony\ Rubio\n\ @version\ 1.0\n
+comment1.params=person
+comment1.target=void\ changeProcras(Stats)
+comment1.text=\n\ Helper\ method\ in\ which\ it\ would\ help\ decide\ how\ much\ procrastination\ should\ go\ down\n\ depending\ on\ the\ reroll\ method\ from\ Stats\ class\n\ \n\ @param\ person\ \ \ \ person\ from\ Stats\ class\ that\ is\ going\ lose\ procrast.\ points\n
+comment2.params=posDam\ person
+comment2.target=double\ changeHealth(int,\ Stats)
+comment2.text=\n\ Helper\ method\ in\ which\ it\ would\ help\ decide\ how\ much\ health\ should\ go\ down\n\ depending\ on\ the\ reroll\ method\ from\ Stats\ class.\ Returns\ the\ amount\ of\ damage\n\ inflicetd\ by\ the\ Friendly\ or\ Enemy\n\ \n\ @param\ person\ \ \ \ person\ from\ Stats\ class\ that\ is\ going\ lose\ procrast.\ points\n
+numComments=3

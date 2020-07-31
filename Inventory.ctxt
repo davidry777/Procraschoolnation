@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Inventory
+comment0.text=\n\ Class\ deals\ with\ inventory\ of\ items\ in\ the\ game,\ such\ as\ while\ loops,\ for\ loops\n\ and\ recursive\ methods\n\n\ @author\ Thomas\ Joel\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Inventory()
+comment1.text=\n\ Default\ constructor\ for\ Inventory\ class\n
+comment2.params=index
+comment2.target=Item\ getItem(int)
+comment2.text=\n\ Returns\ the\ item\ given\ the\ index\n\ @param\ index\ location\ of\ where\ the\ item\ is\ located\ in\ the\ list\n\ @return\ the\ value\ of\ item\ based\ on\ location\n
+comment3.params=item\ index
+comment3.target=void\ setItem(Item,\ int)
+comment3.text=\n\ Replaces\ an\ item\ in\ inventory\ with\ the\ pased\ item\n\ \n\ @param\ Item\ item\ to\ replace\ the\ item\ at\ the\ index\n\ @param\ Index\ location\ of\ item\ to\ be\ replaced\n
+comment4.params=
+comment4.target=javafx.collections.ObservableList\ getItemList()
+comment4.text=\n\ Returns\ the\ Inventory\ list\n\ @return\ inventory\ \ \ \ List\ that\ contains\ all\ the\ items\n
+numComments=5

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\n\ Deal\ with\ giving\ the\ player\ the\ ability\ to\ buy\ items\ and\ use\ them\ to\ produce\n\ more\ money\ in\ the\ game\n\n\ @author\ Jason\ Giese\ and\ Thomas\ Joel\n\ @version\ 1.0\n
+comment1.params=money\ list
+comment1.target=double[]\ shopWindow(double,\ Inventory)
+numComments=2

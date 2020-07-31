@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExitBox
+comment0.text=\r\n\ Allows\ the\ user\ to\ safely\ exit\ the\ program\r\n\r\n\ @Jason\ G\r\n\ @5/28/19\r\n
+comment1.params=title\ message
+comment1.target=boolean\ display(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Class\ that\ displays\ the\ exit\ window\ and\ allows\ the\ user\ \r\n\ to\ safely\ exit\ the\ program.\r\n
+numComments=2
